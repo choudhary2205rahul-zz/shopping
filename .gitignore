@@ -1,2 +1,9 @@
 .idea
 *.iml
+
+app/.idea
+app/*.iml
+app/node_modules
+
+api/.idea
+api/*.iml
